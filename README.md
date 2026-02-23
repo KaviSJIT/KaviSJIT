@@ -264,7 +264,7 @@
   
   <!-- Footer Text -->
   <p>
-    <strong>💻 Crafted with ❤️ by Dharan M J </strong><br>
+    <strong>💻 Crafted with ❤️ by Kaviyarasi </strong><br>
     <em>Passionate about Technology, Innovation, and Clean Code</em><br><br>
     <img src="https://img.shields.io/badge/Made_with-Markdown-1f425f.svg?style=for-the-badge" alt="Made with Markdown"/>
     <img src="https://img.shields.io/badge/Hosted_on-GitHub-181717.svg?style=for-the-badge&logo=github" alt="Hosted on GitHub"/>
