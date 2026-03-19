@@ -1,7 +1,7 @@
 <!-- Header Section with Improved Design -->
 <div align="center">
   <!-- Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Dharan%20M%20J&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Enthusiast%20%7C%20Competitive%20Programmer&descAlignY=55&descAlign=center&stroke=000000&strokeWidth=5" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Kaviyarasi%20S&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Enthusiast%20%7C%20Competitive%20Programmer&descAlignY=55&descAlign=center&stroke=000000&strokeWidth=5" alt="Header Banner"/>
 
   <!-- Profile Picture with Glow Effect -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FFAF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Lifelong+Learner;Open+to+Opportunities!" alt="Typing SVG" />
