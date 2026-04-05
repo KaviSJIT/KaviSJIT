@@ -21,9 +21,9 @@
 
   <!-- GitHub Stats -->
   <p>
-    <img src="https://img.shields.io/github/followers/DharanSJIT?label=Follow&style=flat-square" alt="GitHub followers"/>
-    <img src="https://img.shields.io/github/stars/DharanSJIT?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=flat-square" alt="GitHub stars"/>
-    <img src="https://komarev.com/ghpvc/?username=DharanSJIT&style=flat-square&color=brightgreen" alt="Profile views"/>
+    <img src="https://img.shields.io/github/followers/KaviSJIT?label=Follow&style=flat-square" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/stars/KaviSJIT?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=flat-square" alt="GitHub stars"/>
+    <img src="https://komarev.com/ghpvc/?username=KaviSJIT&style=flat-square&color=brightgreen" alt="Profile views"/>
   </p>
 </div>
 
@@ -37,7 +37,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> <strong>Currently working on</strong> Web Development projects<br>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <strong>Learning</strong> React.js and advanced frameworks<br>
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> <strong>Looking to collaborate on</strong> Open-source & Hackathons<br>
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> <strong>Fun fact:</strong> I love playing Badminton  & Chess player ♟️
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> <strong>Fun fact:</strong> I love editing videos
 </p>
 
 <!-- Fun Stats -->
