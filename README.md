@@ -44,7 +44,7 @@
 <div align="center">
   <h3>🎯 Quick Stats</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=DharanSJIT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&show_owner=true" alt="GitHub Stats" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=KaviSJIT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&show_owner=true" alt="GitHub Stats" width="100%"/>
   </p>
 </div>
 
@@ -52,8 +52,8 @@
 <div align="center">
   <h3>🎨 Beyond Coding</h3>
   <p>
-    <img src="https://img.shields.io/badge/🏸_Badminton-FF6B6B?style=for-the-badge" alt="Badminton"/>
-    <img src="https://img.shields.io/badge/♟️_Chess-4ECDC4?style=for-the-badge" alt="Chess"/>
+    <img src="https://img.shields.io/badge/🧎‍♂️_Kho Kho-FF6B6B?style=for-the-badge" alt="Kho Kho"/>
+    <img src="https://img.shields.io/badge/⚽_Throwball-4ECDC4?style=for-the-badge" alt="Throwball"/>
     <img src="https://img.shields.io/badge/📚_Reading-FFE66D?style=for-the-badge" alt="Reading"/>
     <img src="https://img.shields.io/badge/🎵_Music-FF8CC8?style=for-the-badge" alt="Music"/>
   </p>
@@ -163,20 +163,20 @@
 
 <!-- GitHub Stats Grid -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DharanSJIT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharanSJIT&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaviSJIT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviSJIT&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" width="49%">
 </p>
 
 <!-- GitHub Streak and Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DharanSJIT&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DharanSJIT&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaviSJIT&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviSJIT&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="49%" />
 </p>
 
 <!-- LeetCode Stats -->
 <h2 align="center">⚡ LeetCode Progress</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dharan_05?theme=unicorn&font=RocknRoll%20One&ext=heatmap" alt="LeetCode Stats" width="70%">
+  <img src="https://leetcard.jacoblin.cool/KaviSJIT?theme=unicorn&font=RocknRoll%20One&ext=heatmap" alt="LeetCode Stats" width="70%">
 </p>
 
 
@@ -197,7 +197,7 @@
       <td align="center">
         <h3>📧 Quick Contact</h3>
         <p>
-          <a href="mailto:dharan.mj05@gmail.com">
+          <a href="kaviyarasi0916@gmail.com">
             <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
           </a>
         </p>
@@ -205,7 +205,7 @@
       <td align="center">
         <h3>💼 Professional Network</h3>
         <p>
-          <a href="https://www.linkedin.com/in/dharan-m-j-06555b280/">
+          <a href="www.linkedin.com/in/kaviyarasi-s-a9b347338/">
             <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
           </a>
         </p>
@@ -215,7 +215,7 @@
       <td align="center">
         <h3>💬 Chat & Discuss</h3>
         <p>
-          <a href="https://github.com/DharanSJIT">
+          <a href="https://github.com/KaviSJIT">
             <img src="https://img.shields.io/badge/Discuss_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
           </a>
         </p>
@@ -223,7 +223,7 @@
       <td align="center">
         <h3>🏆 Coding Challenges</h3>
         <p>
-          <a href="https://leetcode.com/u/Dharan_05/">
+          <a href="https://leetcode.com/u/KaviSJIT/">
             <img src="https://img.shields.io/badge/Challenge_Me_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
           </a>
         </p>
@@ -238,7 +238,7 @@
       Whether you're looking for a developer, want to collaborate on a project, or just want to chat about technology - I'd love to hear from you!
     </p>
     <p>
-      <a href="mailto:dharan.mj05@gmail.com">
+      <a href="mailto:kaviyarasi0916@gmail.com">
         <img src="https://img.shields.io/badge/Get_In_Touch-FF6B6B?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Get In Touch"/>
       </a>
     </p>
@@ -250,7 +250,7 @@
 <!-- Footer Section -->
 <div align="center">
   <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=DharanSJIT&style=for-the-badge&color=brightgreen&label=Profile%20Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=KaviSJIT&style=for-the-badge&color=brightgreen&label=Profile%20Views" alt="Profile Views"/>
   
   <!-- Random Dev Quote -->
   <p>
@@ -259,7 +259,7 @@
   
   <!-- Contribution Calendar -->
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DharanSJIT&theme=tokyonight&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" alt="Contribution Graph" width="100%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviSJIT&theme=tokyonight&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" alt="Contribution Graph" width="100%"/>
   </p>
   
   <!-- Footer Text -->
