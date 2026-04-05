@@ -272,6 +272,6 @@
   
   <!-- Last Updated -->
   <p>
-    <img src="https://img.shields.io/badge/Last_Updated-December_2024-blue?style=for-the-badge" alt="Last Updated"/>
+    <img src="https://img.shields.io/badge/Last_Updated-January_2026-blue?style=for-the-badge" alt="Last Updated"/>
   </p>
 </div>
